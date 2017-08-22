@@ -1,1 +1,1 @@
-jupyter-notebook --ip 192.168.254.8  --NotebookApp.token=''
+jupyter-notebook --ip 192.168.1.109  --NotebookApp.token=''
